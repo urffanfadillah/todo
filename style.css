@@ -1,0 +1,21 @@
+.container {
+  width: 90vh;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.todo {
+  width: 100%;
+}
+.list-group-item span {
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+
+.checkbox {
+  margin-right: 15px;
+}
